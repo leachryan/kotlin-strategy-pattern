@@ -5,7 +5,6 @@ package dev.leachryan.patterns
 
 import dev.leachryan.patterns.core.context.RollContext
 import dev.leachryan.patterns.core.model.Dice
-import dev.leachryan.patterns.core.model.RollType
 import dev.leachryan.patterns.core.strategies.DamageRollStrategy
 import dev.leachryan.patterns.core.strategies.RollStrategy
 import dev.leachryan.patterns.core.strategies.SkillCheckStrategy
